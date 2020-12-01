@@ -12,6 +12,6 @@ Other designs using the Paraflex principles where made for subwoofer and infraso
 ![PF-alt-config-115](https://github.com/High-Order-Quarterwave-Society/PF-Alt-Config-115-Subwoofer/blob/main/Paraflex-alt-con-115-3d.jpg)
 
 
- #### Honereable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
+ #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
 Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer and many more.
 
